@@ -3,7 +3,7 @@ Training a model to determine the keyboard layout.
 
 Making dataset + inventing a special encoding for this task + model training and evaluation.
 
-## Article about project: 
+## Article about project
 https://www.notion.so/reu-ds-club/2969bba9fa8a4d779be2e35798818e1d
 
 ## Result 
